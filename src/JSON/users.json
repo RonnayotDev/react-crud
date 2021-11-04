@@ -1,0 +1,73 @@
+{
+  "contacts": {
+    "idFirebase1": {
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "contact": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    "idFirebase2": {
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "contact": "1-770-736-8031 x56443",
+      "website": "hildegard.org"
+    },
+    "idFirebase3": {
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "contact": "1-463-123-4447",
+      "website": "ramiro.info"
+    },
+    "idFirebase4": {
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "contact": "493-170-9623 x156",
+      "website": "kale.biz"
+    },
+    "idFirebase5": {
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "contact": "(254)954-1289",
+      "website": "demarco.info"
+    },
+    "idFirebase6": {
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "contact": "1-477-935-8478 x6430",
+      "website": "ola.org"
+    },
+    "idFirebase7": {
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "contact": "210.067.6132",
+      "website": "elvis.io"
+    },
+    "idFirebase8": {
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "contact": "586.493.6943 x140",
+      "website": "jacynthe.com"
+    },
+    "idFirebase9": {
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "contact": "(775)976-6794 x41206",
+      "website": "conrad.com"
+    },
+    "idFirebase10": {
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "contact": "024-648-3804"
+    }
+  }
+}

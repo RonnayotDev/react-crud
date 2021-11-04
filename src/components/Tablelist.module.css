@@ -1,0 +1,26 @@
+button {
+  cursor: pointer;
+  margin: 0 4px;
+  font-weight: 700;
+}
+.btnedit {
+  padding: 6px;
+  background-color: white;
+  border: none;
+  color: black;
+  border-bottom: 3px solid dodgerblue;
+}
+.btndelete {
+  padding: 6px;
+  background-color: white;
+  border: none;
+  color: black;
+  border-bottom: 3px solid tomato;
+}
+.btnview {
+  padding: 6px;
+  background-color: white;
+  border: none;
+  color: black;
+  border-bottom: 3px solid limegreen;
+}
